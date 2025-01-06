@@ -6,9 +6,9 @@ body {
 
 
 #myCanvas {
-  background-image: url("https://images.pexels.com/photos/1387577/pexels-photo-1387577.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
-  background-size: 400px;
-  border-radius: 30px;
+  background-image: url("https://e7.pngegg.com/pngimages/534/58/png-clipart-pink-petal-falling-cherry-blossom-flower-blossom-petals-sakura-watercolor-painting-miscellaneous-thumbnail.png");
+  background-size: 400px 400px;
+  border-radius: 50px ;
   border: 1px solid rgb(255,245,227);
 }
 

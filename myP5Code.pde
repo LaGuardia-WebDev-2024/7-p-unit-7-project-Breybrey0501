@@ -6,10 +6,12 @@ void setup() {
 //🎯Variable Declarations Go Here
 var fireworkX = 20;
 
+
 //🟢Draw Procedure - Runs on Repeat
 draw = function(){
- 
+ noStroke()
   background(255,255,255,0);
+  
   
    if(mousePressed){
     showXYPositions();
