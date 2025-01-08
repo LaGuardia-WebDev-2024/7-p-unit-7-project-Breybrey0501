@@ -25,11 +25,19 @@ draw = function(){
   
   //🎯Animation Code Goes Here
   rect(fireworkX, 15, 10, 10);
-  fill(247, 160, 224);
-  ellipse(200, petalY, 7, 6)
-  
+  fill(248, 218, 240);
+  ellipse(200, petalY, 5, 7)
+  ellipse(230, petalY1, 5, 7)
+  ellipse(300, petalY, 9, 10)
+  ellipse(320,petalY,13,10)
+  ellipse(120, petalY, 12, 9)
+  elli
   fireworkX = fireworkX + 1;
-
+  petalY=petalY +1
+  petalY1=petalY1+4
+  
+  if(petalY >300) {petalY=-10}
+if(petalY1>330) {petalY1=-10}
 }
 
 //🟡Extra FUN Features Ms. Hall Added
