@@ -6,9 +6,9 @@ body {
 
 
 #myCanvas {
-  background-image: url("https://images.pexels.com/photos/1387577/pexels-photo-1387577.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
-  background-size: 400px;
-  border-radius: 30px;
+  background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20240412/pngtree-cherry-blossom-petals-falling-background-image_15713413.jpg");
+  background-size: 400px 400px;
+  border-radius: 50px ;
   border: 1px solid rgb(255,245,227);
 }
 
